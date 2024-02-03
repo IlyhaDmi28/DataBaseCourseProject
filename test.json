@@ -1,0 +1,8 @@
+{"results":[{"columns":[{"name":"ID","type":"NUMBER"},{"name":"LOGIN","type":"NVARCHAR2"},{"name":"PASSWORD","type":"NVARCHAR2"},{"name":"NAME","type":"NVARCHAR2"},{"name":"PICTURE","type":"BLOB"},{"name":"ROLE","type":"NUMBER"}],"items":
+[
+{"id":1,"login":"ADMIN","password":"4C1B52409CF6BE3896CF163FA17B32E4DA293F2E","name":"ADMIN","picture":"(BLOB)","role":1}
+,{"id":2,"login":"Ilya","password":"011C945F30CE2CBAFC452F39840F025693339C42","name":"Ilya","picture":"(BLOB)","role":0}
+,{"id":3,"login":"Alexander","password":"FEA7F657F56A2A448DA7D4B535EE5E279CAF3D9A","name":"Alexander","picture":"(BLOB)","role":0}
+,{"id":4,"login":"Andrey","password":"F56D6351AA71CFF0DEBEA014D13525E42036187A","name":"Andrey","picture":"(BLOB)","role":0}
+,{"id":5,"login":"Lesha","password":"92F2FD99879B0C2466AB8648AFB63C49032379C1","name":"Lesha","picture":"(BLOB)","role":0}
+]}]}
