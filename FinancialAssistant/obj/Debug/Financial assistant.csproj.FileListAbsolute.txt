@@ -1,0 +1,225 @@
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\Financial assistant.exe.config
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\Financial assistant.exe
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\Financial assistant.pdb
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Financial assistant.csproj.AssemblyReference.cache
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Financial assistant.csproj.SuggestedBindingRedirects.cache
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\App.g.cs
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Financial assistant_MarkupCompile.cache
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Financial assistant_MarkupCompile.lref
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Financial assistant.g.resources
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Financial_assistant.Properties.Resources.resources
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Financial assistant.csproj.GenerateResource.cache
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Financial assistant.csproj.CoreCompileInputs.cache
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Financial assistant.exe
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Financial assistant.pdb
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\UserControls\Login_Reg.g.cs
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\UserControls\Login_Reg.baml
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Pages\Budget.g.cs
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Pages\Budget.baml
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Pages\Diagram.g.cs
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Pages\Diagram.baml
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Pages\Report.g.cs
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Pages\Report.baml
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\LiveCharts.dll
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\LiveCharts.Wpf.dll
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\LiveCharts.pdb
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\LiveCharts.xml
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\LiveCharts.Wpf.pdb
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\LiveCharts.Wpf.xml
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Financial assistant.csproj.CopyComplete
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\AddWindow.g.cs
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\AddWindow.baml
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\AddGoalWindow.g.cs
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\AddGoalWindow.baml
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\InvestmentWindow.g.cs
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\InvestmentWindow.baml
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\AccountWindow.g.cs
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\AccountWindow.baml
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Authorization.g.cs
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Authorization.baml
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\AppWindow.g.cs
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\AppWindow.baml
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Pages\Goal\Goal.g.cs
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Pages\Goal\Goal.baml
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\MySqlConnector.dll
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\System.Buffers.dll
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\System.Memory.dll
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\System.Numerics.Vectors.dll
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\MySqlConnector.xml
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\System.Buffers.xml
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\System.Memory.xml
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\System.Numerics.Vectors.xml
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Labs\Курсач ООП\Financial assistant\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Resources\RoundElements.baml
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\UserControls\PlaceholdField.g.cs
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\UserControls\PlaceholdField.baml
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Admin\AdminWindow.g.cs
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Admin\AdminWindow.baml
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Themes\DarkTheme.baml
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Themes\GreenTheme.baml
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Themes\OrangeTheme.baml
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\Themes\BlueTheme.baml
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\UserControls\PasswordField.g.cs
+D:\Labs\Курсач ООП\Financial assistant\obj\Debug\UserControls\PasswordField.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\Financial assistant.exe.config
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\Financial assistant.exe
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\Financial assistant.pdb
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\LiveCharts.dll
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\LiveCharts.Wpf.dll
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\MySqlConnector.dll
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\System.Buffers.dll
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\System.Memory.dll
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\System.Numerics.Vectors.dll
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\LiveCharts.pdb
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\LiveCharts.xml
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\LiveCharts.Wpf.pdb
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\LiveCharts.Wpf.xml
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\MySqlConnector.xml
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\System.Buffers.xml
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\System.Memory.xml
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\System.Numerics.Vectors.xml
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Labs\Старое\Курсач ООП\Financial assistant\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Financial assistant.csproj.AssemblyReference.cache
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Financial assistant.csproj.SuggestedBindingRedirects.cache
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Themes\DarkTheme.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Themes\GreenTheme.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Themes\OrangeTheme.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Themes\BlueTheme.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Resources\RoundElements.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\AccountWindow.g.cs
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\AddGoalWindow.g.cs
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\AddWindow.g.cs
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Admin\AdminWindow.g.cs
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\AppWindow.g.cs
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\UserControls\PasswordField.g.cs
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\InvestmentWindow.g.cs
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Pages\Report.g.cs
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Pages\Budget.g.cs
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Pages\Diagram.g.cs
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Pages\Goal\Goal.g.cs
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\UserControls\Login_Reg.g.cs
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Authorization.g.cs
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\UserControls\PlaceholdField.g.cs
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\App.g.cs
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Financial assistant_MarkupCompile.cache
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Financial assistant_MarkupCompile.lref
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\AccountWindow.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\AddGoalWindow.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\AddWindow.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Admin\AdminWindow.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\AppWindow.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\UserControls\PasswordField.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\InvestmentWindow.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Pages\Report.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Pages\Budget.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Pages\Diagram.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Pages\Goal\Goal.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\UserControls\Login_Reg.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Authorization.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\UserControls\PlaceholdField.baml
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Financial assistant.g.resources
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Financial_assistant.Properties.Resources.resources
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Financial assistant.csproj.GenerateResource.cache
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Financial assistant.csproj.CoreCompileInputs.cache
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Financial assistant.csproj.CopyComplete
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Financial assistant.exe
+D:\Labs\Старое\Курсач ООП\Financial assistant\obj\Debug\Financial assistant.pdb
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\Financial assistant.exe.config
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\Financial assistant.exe
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\Financial assistant.pdb
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\LiveCharts.dll
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\LiveCharts.Wpf.dll
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\MySqlConnector.dll
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\System.Buffers.dll
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\System.Memory.dll
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\System.Numerics.Vectors.dll
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\LiveCharts.pdb
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\LiveCharts.xml
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\LiveCharts.Wpf.pdb
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\LiveCharts.Wpf.xml
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\MySqlConnector.xml
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\System.Buffers.xml
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\System.Memory.xml
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\System.Numerics.Vectors.xml
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Financial assistant.csproj.AssemblyReference.cache
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Financial assistant.csproj.SuggestedBindingRedirects.cache
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Themes\DarkTheme.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Themes\GreenTheme.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Themes\OrangeTheme.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Themes\BlueTheme.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Resources\RoundElements.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\AccountWindow.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\AddGoalWindow.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\AddWindow.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Admin\AdminWindow.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\AppWindow.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\UserControls\PasswordField.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\InvestmentWindow.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Pages\Report.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Pages\Budget.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Pages\Diagram.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Pages\Goal\Goal.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\UserControls\Login_Reg.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Authorization.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\UserControls\PlaceholdField.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\App.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Financial assistant_MarkupCompile.cache
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Financial assistant_MarkupCompile.lref
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\AccountWindow.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\AddGoalWindow.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\AddWindow.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Admin\AdminWindow.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\AppWindow.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\UserControls\PasswordField.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\InvestmentWindow.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Pages\Report.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Pages\Budget.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Pages\Diagram.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Pages\Goal\Goal.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\UserControls\Login_Reg.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Authorization.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\UserControls\PlaceholdField.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Financial assistant.g.resources
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Financial_assistant.Properties.Resources.resources
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Financial assistant.csproj.GenerateResource.cache
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Financial assistant.csproj.CoreCompileInputs.cache
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Financial assistant.csproj.CopyComplete
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Financial assistant.exe
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Financial assistant.pdb
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Pages\Debt.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Pages\Debt.baml
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\Oracle.DataAccess.dll
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\AddDebtWindow.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\AddDebtWindow.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\EditDebtWindow.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\EditDebtWindow.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Admin\CategoryPage.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Admin\UsersPage.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Admin\CategoryPage.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\Admin\UsersPage.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\AddUserWindow.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\AddUserWindow.baml
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\EditUserWindow.g.cs
+D:\Labs\Курсач БД\Financial assistant\obj\Debug\EditUserWindow.baml
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\Newtonsoft.Json.dll
+D:\Labs\Курсач БД\Financial assistant\bin\Debug\Newtonsoft.Json.xml

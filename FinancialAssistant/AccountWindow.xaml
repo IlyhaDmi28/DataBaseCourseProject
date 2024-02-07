@@ -1,0 +1,31 @@
+﻿<Window x:Class="Financial_assistant.AccountWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Financial_assistant"
+        mc:Ignorable="d"
+        Title="AccountWindow" Height="320" Width="515"
+         MinWidth="515" MinHeight="320"
+        Closing="Window_Closing" Icon="Picture/icons/icon.png">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Resources/RoundElements.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+            
+        </ResourceDictionary>
+        
+        
+    </Window.Resources>
+    
+    <StackPanel>
+        <StackPanel Orientation="Horizontal" Height="140" Width="500" Margin="0 20 0 0">
+            <Button Margin="20 0 0 0" Width="134" Height="135" Command="{Binding SelectPictureCommand}" Background="White">
+                <Image x:Name="AccountPhoto" Width="134" Height="135" Source="{Binding Photo}"/>
+            </Button>
+            <TextBox  x:Name="UserName" Margin="20 30 0 0" Width="299" Height="34" FontSize="20" Text="{Binding NameAccount}" Padding="5 0 0 0" Template="{StaticResource NoBorder}"/>
+        </StackPanel>
+        <Button Width="170" Height="40" Margin="0 55 0 0" Background="Green" Content="Выйти" FontSize="18" Foreground="White" Command="{Binding LeaveCommand}" Template="{StaticResource ButtonRound}"/>
+    </StackPanel>
+</Window>

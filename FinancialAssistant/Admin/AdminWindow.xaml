@@ -1,0 +1,48 @@
+﻿<Window x:Class="Financial_assistant.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Financial_assistant"
+        mc:Ignorable="d"
+        Title="AdminWindow" Height="750" Width="1400"
+        MinWidth="600" MinHeight="750"
+        Style="{DynamicResource WindowStyle}"
+        Icon="../Picture/icons/icon.png">
+
+    <Window.Resources>
+
+        <ControlTemplate x:Key="CircleButton" TargetType="Button">
+            <Border Background="{TemplateBinding Background}"
+                    BorderBrush="{TemplateBinding BorderBrush}"
+                    BorderThickness="{TemplateBinding BorderThickness}"
+                    CornerRadius="70">
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Border>
+
+        </ControlTemplate>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="180"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="180"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0" Orientation="Vertical">
+            <Button Content="Категории" Style="{DynamicResource PageNavigationStyle}"  Command="{Binding ChangeToCategoryCommand}"/>
+            <Button Content="Пользователи" Style="{DynamicResource PageNavigationStyle}" Command="{Binding ChangeToUsersCommand}"/>
+        </StackPanel>
+
+        <Frame Grid.Column="1" x:Name="PageContent" NavigationUIVisibility="Hidden"/>
+
+        <StackPanel Grid.Column="2">
+            <Button Background="White" Width="117" Height="117" Margin="0 30 0 0" Command="{Binding OpenAccountWindowCommand}">
+
+                <Image Source="{Binding Photo}" Width="117" Height="117" />
+            </Button>
+            <TextBlock Text="{Binding AccountName}" TextAlignment="Center" FontSize="24"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
